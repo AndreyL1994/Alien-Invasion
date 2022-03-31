@@ -8,3 +8,11 @@ ____
 ## 🔧 Requeriments
 - [Python](https://www.python.org/) 3.x
 - [Pygame](https://www.pygame.org/)
+____
+## :video_game: Controls
+- Space-bar
+  - Shoot
+- Arrows keys (left - right)
+  - Move the ship left / right
+- Q
+  -Stop the game 
