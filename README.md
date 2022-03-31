@@ -16,3 +16,6 @@ ____
   - Move the ship left / right
 - Q  
   - Stop the game 
+____
+## :on: Running
+$ python alien_invasion.py
