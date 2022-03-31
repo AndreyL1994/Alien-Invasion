@@ -1,4 +1,4 @@
-# :alien: Alien-Invasion  
+# :alien: Alien Invasion  
 I created this game by following the "Python Crash Course" study book for improve my python skills. 
 ____
 ## :link: Links  
