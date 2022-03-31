@@ -14,5 +14,5 @@ ____
   - Shoot
 - Arrows keys (left - right)
   - Move the ship left / right
-- Q
-  -Stop the game 
+- Q  
+  - Stop the game 
